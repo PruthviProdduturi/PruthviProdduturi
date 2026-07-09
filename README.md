@@ -63,9 +63,6 @@ Scalable compute · reliable orchestration · governed analytics. An end-to-end 
 **✦ [LooMX](https://github.com/PruthviProdduturi/LoomX) — Live Operational Outcomes & Metrics eXperience**
 A self-hosted enterprise analytics platform — a private data command centre where teams query live data, build charts, assemble dashboards, and use AI to accelerate analysis. Multi-provider auth (Local · Azure AD · Google), configurable entirely from the UI. Built on **Next.js · TypeScript · Python · FastAPI**, over **Microsoft Fabric SQL, Azure SQL, PostgreSQL, MySQL, Trino, StarRocks**. `MIT`
 
-**🎮 [KentPokemonStore](https://github.com/PruthviProdduturi/KentPokemonStore)**
-C# project from my M.S. at Kent State University.
-
 > Most of my professional work lives inside Microsoft's platforms; this profile highlights that impact alongside my public projects above.
 
 ---
