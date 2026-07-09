@@ -35,15 +35,18 @@ I operate where scale is largest, data is deepest, and hardware is least forgivi
 ### 🛠️ Tech & Domains
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat&logo=trino&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
-![Kafka](https://img.shields.io/badge/Streaming-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 - **Distributed Systems:** MPP query engines, columnar storage, vectorized execution, partitioning strategies, async job systems, IoT orchestration
 - **Data Architecture:** Lakehouse design, semantic models, telemetry pipelines, ML scoring, stream/batch processing
@@ -52,13 +55,18 @@ I operate where scale is largest, data is deepest, and hardware is least forgivi
 
 ---
 
-### 📌 Selected Repositories
+### 📌 Featured Projects
 
-| Repository | Description |
-|------------|-------------|
-| [KentPokemonStore](https://github.com/PruthviProdduturi/KentPokemonStore) | C# project from M.S. at Kent State University |
+**🔨 [Forge](https://github.com/PruthviProdduturi/Forge) — The Core Data Platform**
+Scalable compute · reliable orchestration · governed analytics. An end-to-end data engineering platform taking raw ingestion → governed, serving-ready data with lineage tracking and data quality. Two-cluster model (compute + orchestration) built on **Azure (Bicep) · AKS · Apache Spark · Trino · Airflow · Delta Lake**.
 
-> Most of my work lives inside Microsoft's platforms; this profile highlights that impact alongside public projects.
+**✦ [LooMX](https://github.com/PruthviProdduturi/LoomX) — Live Operational Outcomes & Metrics eXperience**
+A self-hosted enterprise analytics platform — a private data command centre where teams query live data, build charts, assemble dashboards, and use AI to accelerate analysis. Multi-provider auth (Local · Azure AD · Google), configurable entirely from the UI. Built on **Next.js · TypeScript · Python · FastAPI**, over **Microsoft Fabric SQL, Azure SQL, PostgreSQL, MySQL, Trino, StarRocks**. `MIT`
+
+**🎮 [KentPokemonStore](https://github.com/PruthviProdduturi/KentPokemonStore)**
+C# project from my M.S. at Kent State University.
+
+> Most of my professional work lives inside Microsoft's platforms; this profile highlights that impact alongside my public projects above.
 
 ---
 
