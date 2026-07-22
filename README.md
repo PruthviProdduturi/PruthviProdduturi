@@ -82,15 +82,6 @@ Contributed use-case design and integration engineering for the official Trino .
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PruthviProdduturi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviProdduturi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
 ### Connect
 
 - Portfolio: [pruthviprodduturi.github.io](https://pruthviprodduturi.github.io)
