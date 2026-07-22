@@ -16,7 +16,7 @@
 
 ### What I do
 
-A technical leader across **distributed data systems, query engines, and zero-to-one platform engineering** — fluent from query-engine internals to cloud-native service architecture, and effective communicating technical direction to executive audiences.
+A technical leader with **11+ years** across **distributed data systems, query engines, and zero-to-one platform engineering** — fluent from query-engine internals to cloud-native service architecture, and effective communicating technical direction to executive audiences.
 
 > **Consumer data is massive. Commercial data is deep. Hardware data isn't forgiving** — and that's exactly where I operate.
 
@@ -24,10 +24,11 @@ A technical leader across **distributed data systems, query engines, and zero-to
 
 ### Highlights
 
-- **CEO-recognized engine leadership** — Drove a deep performance analysis of a distributed SQL engine (MPP, columnar) and the improvements that followed, shaping the engine roadmap and enabling a large executive-facing org's migration onto the platform. Reusable benchmarks **adopted by multiple platform-engineering teams**; work recognized up to the **Azure Data President and CEO Satya Nadella**.
-- **The platform behind competitive strategy** — Architected the end-to-end competitive-intelligence platform spanning **AI compete** (GenAI landscape vs. OpenAI, Google, AWS), **Security compete** (endpoint & cloud-security positioning), and **Product-level compete** (cross-portfolio competitive analysis). **Sub-5s query performance**, reviewed daily by executives, serving **50+ stakeholders** with **100% metric parity**.
-- **Zero-to-one IoT fleet orchestration** — Designed and built a real-time platform for autonomous fleet management from scratch; turns operational alerts into autonomous action, **cutting incident response to under ~10 minutes**, architected to scale to **N devices**, monitoring **petabyte-scale telemetry (billions of rows daily)** across global sites.
-- **A force multiplier across teams** — Established Fabric engineering standards (Direct Lake optimization, CI/CD automation, semantic-model operationalization) adopted as the **default across teams**; automated production promotion (**-80% manual promotion time**), drove **deployment regressions to zero**, and halved global report first-render time (**~15s -> ~7s**).
+- **CEO-recognized engine leadership** — Drove a deep performance analysis of Fabric SQL against Trino — an engine that had never competed at this level — directly **shaping the engine roadmap**. After my sign-off, executive reports migrated onto Fabric SQL. Reusable benchmarks **adopted by multiple platform-engineering teams**; work recognized up to the **Azure Data President and CEO Satya Nadella**.
+- **Engineering lead — IDEAS-Fabric partnership** — The sole engineer behind Microsoft's **IDEAS journey onto Fabric** — from the initial Trino-vs-Fabric evaluation to the semantic model strategy powering analytics at scale. Designed the **Direct Lake semantic model** approach, the **Fabric development lifecycle for compliance and reliability**, and the SQL performance work. Architecture **[published on Microsoft Learn](https://learn.microsoft.com/en-us/fabric/fundamentals/ideas-data-platform-integration)** as the reference for Fabric adoption at enterprise scale. Automated production promotion (**-80% manual time**), drove **deployment regressions to zero**, and **halved global report first-render time (~15s -> ~7s)**.
+- **Data security & compliance at platform scale** — Surfaced a critical **data exfiltration vulnerability** in Microsoft Fabric, authored the end-to-end remediation, and presented the required API changes to the platform team. **Design adopted as a native Fabric capability**. Laid foundational standards for **EUDB-compliant data handling**.
+- **The platform behind competitive strategy** — Architected the competitive-intelligence platform powering the **M365 Copilot analytics plane** — spanning **AI compete**, **Security compete**, and **Product-level compete**. **Sub-5s query performance**, serving **600+ teams** with **100% metric parity** across executive scorecards.
+- **Zero-to-one IoT fleet orchestration** — Designed and built a real-time platform for autonomous fleet management from scratch; **cutting incident response to under ~10 minutes**, architected to scale to **N devices**, monitoring **petabyte-scale telemetry (billions of rows daily)** across global sites.
 
 ---
 
@@ -47,12 +48,12 @@ A technical leader across **distributed data systems, query engines, and zero-to
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
 
-- **Leadership:** Zero-to-one builds, executive communication, mentoring engineers, cross-geo leadership, navigating ambiguity
+- **Leadership:** Zero-to-one builds, executive communication, mentoring, cross-geo leadership, navigating ambiguity, open source
 - **Distributed Systems:** MPP query engines, columnar storage, vectorized execution, partitioning strategies, async job systems, IoT orchestration
-- **Data Architecture:** Lakehouse design, semantic models, telemetry pipelines, stream/batch processing, Medallion architecture, Cosmos DB
+- **Data Architecture:** Lakehouse design, semantic models, telemetry pipelines, stream/batch, Medallion architecture, data governance, exfiltration prevention, EUDB compliance, Cosmos DB
 - **Query Engines:** Fabric SQL, Presto / Trino, StarRocks, ClickHouse, Apache Kylin
 - **Languages:** C#, .NET, Python, TypeScript, JavaScript, SQL, T-SQL, KQL, SCOPE
-- **Platform & Reliability:** FastAPI, React, Azure (App Service, IoT Hub, Blob), managed identity, VNet, CI/CD, perf tuning
+- **Platform & Reliability:** Azure, FastAPI, React, IoT Hub, CI/CD automation, zero-trust architecture, security & governance, perf tuning
 
 ---
 
