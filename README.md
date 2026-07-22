@@ -16,7 +16,7 @@
 
 ### What I do
 
-A technical leader with **11+ years** across **distributed data systems, query engines, and zero-to-one platform engineering** — fluent from query-engine internals to cloud-native service architecture, and effective communicating technical direction to executive audiences.
+A technical leader with **13+ years** across **distributed data systems, query engines, and zero-to-one platform engineering** — fluent from query-engine internals to cloud-native service architecture, and effective communicating technical direction to executive audiences.
 
 > **Consumer data is massive. Commercial data is deep. Hardware data isn't forgiving** — and that's exactly where I operate.
 
