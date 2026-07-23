@@ -53,7 +53,7 @@ Engineering lead and senior software engineer with **13+ years** building **dist
 - **Data Architecture:** Lakehouse design, semantic models, telemetry pipelines, stream/batch, Medallion architecture, data governance, exfiltration prevention, EUDB compliance, Cosmos DB
 - **Query Engines:** Fabric SQL, Presto / Trino, StarRocks, ClickHouse, Apache Kylin
 - **Languages:** C#, .NET, Python, TypeScript, JavaScript, SQL, T-SQL, KQL, SCOPE
-- **Platform & Reliability:** Azure, FastAPI, React, IoT Hub, CI/CD automation, zero-trust architecture, security & governance, perf tuning
+- **Platform & Reliability:** Azure, security, governance & zero-trust, CI/CD automation, performance engineering, IoT Hub, FastAPI, React, Node.js
 
 ---
 
