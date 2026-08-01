@@ -62,7 +62,7 @@ Engineering lead and senior software engineer with **13+ years** building **dist
 **[Forge](https://github.com/PruthviProdduturi/Forge) — The Core Data Engineering Platform**
 Scalable compute · reliable orchestration · governed analytics. An end-to-end data engineering platform taking raw ingestion to governed, serving-ready data with lineage tracking and data quality. Two-cluster model (compute + orchestration) built on **Azure (Bicep) · AKS · Apache Spark · Trino · Airflow · Delta Lake**.
 
-**[LooMX](https://github.com/PruthviProdduturi/LoomX) — Live Operational Outcomes & Metrics eXperience**
+**[Lens](https://github.com/PruthviProdduturi/Lens) — Self-Hosted Analytics & BI**
 A self-hosted enterprise analytics platform — a private data command centre where teams query live data, build charts, assemble dashboards, and use AI to accelerate analysis. Multi-provider auth (Local · Azure AD · Google), configurable entirely from the UI. Built on **Next.js · TypeScript · Python · FastAPI**, over **Microsoft Fabric SQL, Azure SQL, PostgreSQL, MySQL, Trino, StarRocks**. `MIT`
 
 **[Trino C# .NET Client](https://github.com/trinodb/trino-csharp-client) — Open-source contributor**
