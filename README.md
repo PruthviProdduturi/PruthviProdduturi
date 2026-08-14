@@ -59,11 +59,11 @@ Engineering lead and senior software engineer with **13+ years** building **dist
 
 ### Featured Projects
 
-**[Forge](https://github.com/PruthviProdduturi/Forge) — The Core Data Engineering Platform**
-Scalable compute · reliable orchestration · governed analytics. An end-to-end data engineering platform taking raw ingestion to governed, serving-ready data with lineage tracking and data quality. Two-cluster model (compute + orchestration) built on **Azure (Bicep) · AKS · Apache Spark · Trino · Airflow · Delta Lake**.
+**[Kaveon](https://github.com/PruthviProdduturi/Kaveon) — Talk to Your Data**
+Connect your databases, ask questions in plain English, get instant answers with interactive charts and dashboards. Powered by a deterministic NL→SQL engine — no LLM, no API keys, works offline. 37 chart types, dashboard builder, SQL Lab, semantic datasets. Built on **Next.js · TypeScript · Python · FastAPI**, over **Fabric SQL, Azure SQL, PostgreSQL, MySQL, StarRocks**. [**Live demo →**](https://kaveon.vercel.app) `MIT`
 
-**[Lens](https://github.com/PruthviProdduturi/Lens) — Self-Hosted Analytics & BI**
-A self-hosted enterprise analytics platform — a private data command centre where teams query live data, build charts, assemble dashboards, and use AI to accelerate analysis. Multi-provider auth (Local · Azure AD · Google), configurable entirely from the UI. Built on **Next.js · TypeScript · Python · FastAPI**, over **Microsoft Fabric SQL, Azure SQL, PostgreSQL, MySQL, Trino, StarRocks**. `MIT`
+**[Forge](https://github.com/PruthviProdduturi/Forge) — The Core Engineering Platform**
+Scalable compute · reliable orchestration · governed analytics. An end-to-end platform taking raw ingestion to governed, serving-ready data with lineage tracking and data quality. Two-cluster model (compute + orchestration) built on **Azure (Bicep) · AKS · Apache Spark · Trino · Airflow · Delta Lake**.
 
 **[Trino C# .NET Client](https://github.com/trinodb/trino-csharp-client) — Open-source contributor**
 Contributed use-case design and integration engineering for the official Trino .NET client library — an ADO.NET-compatible C# client open-sourced from Microsoft under the trinodb organization. Acknowledged at **Trino Summit 2024**.
