@@ -60,7 +60,7 @@ Engineering lead and senior software engineer with **13+ years** building **dist
 ### Featured Projects
 
 **[Kaveon](https://github.com/PruthviProdduturi/Kaveon) — Talk to Your Data**
-Connect your databases. Ask anything. Get instant answers with interactive charts — powered by a deterministic engine, not an LLM. 37 chart types, dashboard builder, SQL Lab, semantic datasets. Built on **Next.js · TypeScript · Python · FastAPI**, over **Fabric SQL, Azure SQL, PostgreSQL, MySQL, StarRocks**. [**Live demo →**](https://kaveon.vercel.app/about) `MIT`
+Connect your databases. Ask anything. Get instant answers with interactive charts — powered by a deterministic engine, not an LLM. 37 chart types, dashboard builder, SQL Lab, semantic datasets. Built on **Next.js · TypeScript · Python · FastAPI**, over **Fabric SQL, Azure SQL, PostgreSQL, MySQL, StarRocks**. [**Try it →**](https://kaveon.vercel.app/about) `MIT`
 
 **[Forge](https://github.com/PruthviProdduturi/Forge) — The Core Engineering Platform**
 Scalable compute · reliable orchestration · governed analytics. An end-to-end platform taking raw ingestion to governed, serving-ready data with lineage tracking and data quality. Two-cluster model (compute + orchestration) built on **Azure (Bicep) · AKS · Apache Spark · Trino · Airflow · Delta Lake**.
